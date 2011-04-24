@@ -271,7 +271,7 @@
 						<string key="targetRuntimeIdentifier">IBIPadFramework</string>
 						<object class="NSCustomResource" key="IBUIImage">
 							<string key="NSClassName">NSImage</string>
-							<string key="NSResourceName">88x31.png</string>
+							<string key="NSResourceName">ca.png</string>
 						</object>
 					</object>
 				</object>
@@ -522,7 +522,7 @@
 					<object class="NSAffineTransform">
 						<bytes key="NSTransformStruct">P4AAAL+AAABC8gAAwuYAAA</bytes>
 					</object>
-					<string>{{405, -11}, {783, 756}}</string>
+					<string>{{277, -95}, {783, 756}}</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
@@ -948,7 +948,7 @@
 		<string key="IBDocument.LastKnownRelativeProjectPath">GeoHexSample.xcodeproj</string>
 		<int key="IBDocument.defaultPropertyAccessControl">3</int>
 		<object class="NSMutableDictionary" key="IBDocument.LastKnownImageSizes">
-			<string key="NS.key.0">88x31.png</string>
+			<string key="NS.key.0">ca.png</string>
 			<string key="NS.object.0">{88, 31}</string>
 		</object>
 		<string key="IBCocoaTouchPluginVersion">132</string>
