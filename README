@@ -9,6 +9,6 @@ http://twitter.com/seikoudoku2000
 Copy the project into your app.
 
 # BUILD
-To Build this app, you need to add CoreLocation.framework, MapKit.framework and iAd.framework.
+To run this app, need to add CoreLocation.framework, MapKit.framework and iAd.framework.
 
 GeoHex by @sa2da (http://geogames.net) is licensed under Creative Commons BY-SA 2.1 Japan License. 
