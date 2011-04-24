@@ -1,0 +1,412 @@
+TGeoHexSample
+v7
+r0
+t319322760.349814
+cCheck dependencies
+cProcessInfoPlistFile /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist GeoHexSample-Info.plist
+cCompileXIB /iPad/GeoHexSample/MainWindow.xib
+cCompileXIB /iPad/GeoHexSample/GeoHexSampleViewController.xib
+cProcessPCH /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch.gch GeoHexSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o /iPad/GeoHexSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o /iphone/MapPolygonSample/Classes/Zone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o /iphone/MapPolygonSample/Classes/XY.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o /iphone/MapPolygonSample/Classes/Loc.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o /iphone/MapPolygonSample/Classes/GeoHex.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.h
+c000000004D583F9800000000000001FC
+t1297629080
+s508
+i<UIKit/UIKit.h>
+
+N/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m
+c000000004D583F9800000000000007CC
+t1297629080
+s1996
+i"GeoHexSampleAppDelegate.h"
+i"GeoHexSampleViewController.h"
+
+N/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h
+c000000004D5842320000000000000110
+t1297629746
+s272
+i<UIKit/UIKit.h>
+
+N/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m
+c000000004D5843050000000000000E95
+t1297629957
+s3733
+i"GeoHexSampleViewController.h"
+i"GeoHex.h"
+i"Zone.h"
+
+N/iPad/GeoHexSample/GeoHexSampleViewController.xib
+c000000004D5842180000000000004081
+t1297629720
+s16513
+
+N/iPad/GeoHexSample/GeoHexSample_Prefix.pch
+c000000004D583F9800000000000000C1
+t1297629080
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPad/GeoHexSample/MainWindow.xib
+c000000004D583F980000000000004D3B
+t1297629080
+s19771
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app
+t2
+s0
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM
+t2
+s0
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+t2
+s0
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSampleViewController.nib
+t1297629958
+s1478
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist
+t1297629958
+s818
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/MainWindow.nib
+t1297629958
+s1133
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/PkgInfo
+t1297629958
+s8
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o
+t1297629960
+s24040
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSample.LinkFileList
+c000000004D5843060000000000000338
+t1297629958
+s824
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o
+t2
+s0
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o
+t2
+s0
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o
+t1297629960
+s8364
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o
+t1297629960
+s7224
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o
+t1297629960
+s15480
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o
+t1297629960
+s6264
+
+N/iPad/GeoHexSample/main.m
+c000000004D583F98000000000000016D
+t1297629080
+s365
+i<UIKit/UIKit.h>
+
+N/iphone/MapPolygonSample/Classes/GeoHex.h
+c000000004D4F16800000000000000299
+t1297028736
+s665
+i<Foundation/Foundation.h>
+i"Loc.h"
+i"XY.h"
+i"Zone.h"
+
+N/iphone/MapPolygonSample/Classes/GeoHex.m
+c000000004D5162680000000000001625
+t1297179240
+s5669
+i"GeoHex.h"
+
+N/iphone/MapPolygonSample/Classes/Loc.h
+c000000004D4DCF74000000000000012F
+t1296945012
+s303
+i<Foundation/Foundation.h>
+
+N/iphone/MapPolygonSample/Classes/Loc.m
+c000000004D4DCF790000000000000154
+t1296945017
+s340
+i"Loc.h"
+
+N/iphone/MapPolygonSample/Classes/XY.h
+c000000004D4182BF00000000000000FF
+t1296138943
+s255
+i<Foundation/Foundation.h>
+
+N/iphone/MapPolygonSample/Classes/XY.m
+c000000004D4183EC00000000000000C5
+t1296139244
+s197
+i"XY.h"
+
+N/iphone/MapPolygonSample/Classes/Zone.h
+c000000004D4DCC2600000000000001A8
+t1296944166
+s424
+i<Foundation/Foundation.h>
+
+N/iphone/MapPolygonSample/Classes/Zone.m
+c000000004D516208000000000000049F
+t1297179144
+s1183
+i"Zone.h"
+i"GeoHex.h"
+i"XY.h"
+
+N/var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch.gch
+t1297629959
+s15453392
+
+NGeoHexSample-Info.plist
+c000000004D583F9800000000000004D6
+t1297629080
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319322758#319322758#0(0"0(0#1#0"33777431001694320#0"0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o /iphone/MapPolygonSample/Classes/GeoHex.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322760.245602
+e319322760.349720
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o
+x/iphone/MapPolygonSample/Classes/GeoHex.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /iphone/MapPolygonSample/Classes/GeoHex.m319322760#319322760#0(0"0(0#0#41"/iphone/MapPolygonSample/Classes/GeoHex.m8619472224#1812"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iphone/MapPolygonSample/Classes/GeoHex.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322759.871661
+e319322760.097594
+r0
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o
+x/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m:10:
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h:12: error: expected specifier-qualifier-list before 'MKMapView'
+lSLF07#2@60"Compile /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m319322759#319322760#0(199"In file included from /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m:10:/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h:12: error: expected specifier-qualifier-list before 'MKMapView'1(4@52"Expected specifier-qualifier-list before 'MKMapView'319322759#79#120#2(7@74"In file included from /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m319322759#18446744073709551615#0#0(6@52"/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m319321880#10#0#10#0#0"0(13@111"Expected specifier-qualifier-list before 'MKMapView' in /iPad/GeoHexSample/Classes/GeoHexSampleViewController.h319322759#18446744073709551615#0#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h319322546#12#0#12#0#0"0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h319322546#12#0#12#0#19"expected * before *0(0#0#52"/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m8619817792#1840"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o1#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322760.098063
+e319322760.181144
+r0
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o
+x/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:9:
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h:12: error: expected specifier-qualifier-list before 'MKMapView'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:14: error: no declaration of property 'mapView' found in the interface
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController viewDidLoad]':
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:40: error: 'mapView_' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:40: error: (Each undeclared identifier is reported only once
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:40: error: for each function it appears in.)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:41: error: 'MKCoordinateRegion' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:41: error: expected ';' before 'region'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:42: error: 'region' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:44: warning: implicit declaration of function 'CLLocationCoordinate2DMake'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController handleTapGesture:]':
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:54: error: 'mapView_' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:56: error: 'CLLocationCoordinate2D' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:56: error: expected ';' before 'mapPoint'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: error: 'mapPoint' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: warning: 'GeoHexSampleViewController' may not respond to '-drawHex:lon:level:'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: warning: (Messages without a matching method signature
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: warning: will be assumed to return 'id' and accept
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: warning: '...' as arguments.)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:54: warning: unused variable 'location'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController drawHex:lon:level:]':
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:65: error: 'CLLocationCoordinate2D' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:65: error: expected ';' before 'coors'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:66: error: 'coors' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:73: error: 'MKPolygon' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:73: error: 'polygon' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:74: error: 'mapView_' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: At top level:
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:77: error: expected ')' before 'MKOverlayView'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:77: error: expected ')' before 'MKMapView'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:78: error: cannot find protocol declaration for 'MKOverlay'
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController mapView:viewForOverlay:]':
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:79: error: 'MKPolygonView' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:79: error: 'view' undeclared (first use in this function)
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:84: warning: control reaches end of non-void function
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController dealloc]':
+o/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:106: error: 'mapView_' undeclared (first use in this function)
+lSLF07#2@63"Compile /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322760#319322760#0(4294"In file included from /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:9:/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h:12: error: expected specifier-qualifier-list before 'MKMapView'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:14: error: no declaration of property 'mapView' found in the interface/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController viewDidLoad]':/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:40: error: 'mapView_' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:40: error: (Each undeclared identifier is reported only once/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:40: error: for each function it appears in.)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:41: error: 'MKCoordinateRegion' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:41: error: expected ';' before 'region'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:42: error: 'region' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:44: warning: implicit declaration of function 'CLLocationCoordinate2DMake'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController handleTapGesture:]':/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:54: error: 'mapView_' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:56: error: 'CLLocationCoordinate2D' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:56: error: expected ';' before 'mapPoint'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: error: 'mapPoint' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: warning: 'GeoHexSampleViewController' may not respond to '-drawHex:lon:level:'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: warning: (Messages without a matching method signature/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: warning: will be assumed to return 'id' and accept/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:58: warning: '...' as arguments.)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:54: warning: unused variable 'location'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController drawHex:lon:level:]':/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:65: error: 'CLLocationCoordinate2D' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:65: error: expected ';' before 'coors'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:66: error: 'coors' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:73: error: 'MKPolygon' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:73: error: 'polygon' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:74: error: 'mapView_' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: At top level:/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:77: error: expected ')' before 'MKOverlayView'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:77: error: expected ')' before 'MKMapView'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:78: error: cannot find protocol declaration for 'MKOverlay'/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController mapView:viewForOverlay:]':/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:79: error: 'MKPolygonView' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:79: error: 'view' undeclared (first use in this function)/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:84: warning: control reaches end of non-void function/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m: In function '-[GeoHexSampleViewController dealloc]':/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m:106: error: 'mapView_' undeclared (first use in this function)28(4@52"Expected specifier-qualifier-list before 'MKMapView'319322760#81#120#2(7@77"In file included from /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322760#18446744073709551615#0#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#9#0#9#0#0"0(13@111"Expected specifier-qualifier-list before 'MKMapView' in /iPad/GeoHexSample/Classes/GeoHexSampleViewController.h319322760#18446744073709551615#0#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h319322546#12#0#12#0#0"0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h319322546#12#0#12#0#19"expected * before *0(4@59"No declaration of property 'mapView' found in the interface319322760#201#127#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#14#0#14#0#0"0(4@50"'mapView_' undeclared (first use in this function)319322760#442#118#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#40#0#40#0#43"'*' undeclared (first use in this function)0(4@60"'MKCoordinateRegion' undeclared (first use in this function)319322760#778#128#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#41#0#41#0#43"'*' undeclared (first use in this function)0(4@28"Expected ';' before 'region'319322760#906#96#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#41#0#41#0#19"expected * before *0(4@48"'region' undeclared (first use in this function)319322760#1002#116#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#42#0#42#0#43"'*' undeclared (first use in this function)0(22@61"Implicit declaration of function 'CLLocationCoordinate2DMake'319322760#1118#131#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#44#0#44#0#36"implicit declaration of function '*'0(4@50"'mapView_' undeclared (first use in this function)319322760#1369#118#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#54#0#54#0#43"'*' undeclared (first use in this function)0(4@64"'CLLocationCoordinate2D' undeclared (first use in this function)319322760#1487#132#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#56#0#56#0#43"'*' undeclared (first use in this function)0(4@30"Expected ';' before 'mapPoint'319322760#1619#98#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#56#0#56#0#19"expected * before *0(4@50"'mapPoint' undeclared (first use in this function)319322760#1717#118#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#58#0#58#0#43"'*' undeclared (first use in this function)0(22@69"'GeoHexSampleViewController' may not respond to '-drawHex:lon:level:'319322760#1835#139#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#58#0#58#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)319322760#1974#115#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#58#0#58#0#0"0(22@26"Unused variable 'location'319322760#2290#96#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#54#0#54#0#19"unused variable '*'0(4@64"'CLLocationCoordinate2D' undeclared (first use in this function)319322760#2507#132#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#65#0#65#0#43"'*' undeclared (first use in this function)0(4@27"Expected ';' before 'coors'319322760#2639#95#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#65#0#65#0#19"expected * before *0(4@47"'coors' undeclared (first use in this function)319322760#2734#115#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#66#0#66#0#43"'*' undeclared (first use in this function)0(4@51"'MKPolygon' undeclared (first use in this function)319322760#2849#119#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#73#0#73#0#43"'*' undeclared (first use in this function)0(4@49"'polygon' undeclared (first use in this function)319322760#2968#117#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#73#0#73#0#43"'*' undeclared (first use in this function)0(4@50"'mapView_' undeclared (first use in this function)319322760#3085#118#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#74#0#74#0#43"'*' undeclared (first use in this function)0(23@13"At top level:319322760#3203#71#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#0#0#0#0#0"0(4@35"Expected ')' before 'MKOverlayView'319322760#3274#103#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#77#0#77#0#19"expected * before *0(4@31"Expected ')' before 'MKMapView'319322760#3377#99#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#77#0#77#0#19"expected * before *0(4@48"Cannot find protocol declaration for 'MKOverlay'319322760#3476#116#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#78#0#78#0#0"0(4@55"'MKPolygonView' undeclared (first use in this function)319322760#3718#123#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#79#0#79#0#43"'*' undeclared (first use in this function)0(4@46"'view' undeclared (first use in this function)319322760#3841#114#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#79#0#79#0#43"'*' undeclared (first use in this function)0(22@40"Control reaches end of non-void function319322760#3955#110#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#84#0#84#0#40"control reaches end of non-void function0(4@50"'mapView_' undeclared (first use in this function)319322760#4175#119#0(6@55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319322757#106#0#106#0#43"'*' undeclared (first use in this function)0(0#0#55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m7298205676930556928#1846"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o1#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o /iphone/MapPolygonSample/Classes/Loc.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322760.223400
+e319322760.306213
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o
+x/iphone/MapPolygonSample/Classes/Loc.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /iphone/MapPolygonSample/Classes/Loc.m319322760#319322760#0(0"0(0#0#38"/iphone/MapPolygonSample/Classes/Loc.m8612172608#1806"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iphone/MapPolygonSample/Classes/Loc.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o /iphone/MapPolygonSample/Classes/XY.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322760.181232
+e319322760.245497
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o
+x/iphone/MapPolygonSample/Classes/XY.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /iphone/MapPolygonSample/Classes/XY.m319322760#319322760#0(0"0(0#0#37"/iphone/MapPolygonSample/Classes/XY.m8612242976#1804"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iphone/MapPolygonSample/Classes/XY.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o /iphone/MapPolygonSample/Classes/Zone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322760.099529
+e319322760.223290
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o
+x/iphone/MapPolygonSample/Classes/Zone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /iphone/MapPolygonSample/Classes/Zone.m319322760#319322760#0(0"0(0#0#39"/iphone/MapPolygonSample/Classes/Zone.m8619247008#1808"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iphone/MapPolygonSample/Classes/Zone.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o /iPad/GeoHexSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322759.869916
+e319322760.099432
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o
+x/iPad/GeoHexSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Compile /iPad/GeoHexSample/main.m319322759#319322760#0(0"0(0#0#25"/iPad/GeoHexSample/main.m8619222624#1794"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iPad/GeoHexSample/main.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /iPad/GeoHexSample/GeoHexSampleViewController.xib
+s319322758.125584
+e319322758.585683
+r1
+xCompileXIB
+x/iPad/GeoHexSample/GeoHexSampleViewController.xib
+lSLF07#2@41"CompileXIB GeoHexSampleViewController.xib319322758#319322758#0(0"0(0#0#49"/iPad/GeoHexSample/GeoHexSampleViewController.xib8618990656#547"    cd /iPad/GeoHexSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSampleViewController.nib /iPad/GeoHexSample/GeoHexSampleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /iPad/GeoHexSample/MainWindow.xib
+s319322758.114471
+e319322758.571982
+r1
+xCompileXIB
+x/iPad/GeoHexSample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319322758#319322758#0(0"0(0#0#33"/iPad/GeoHexSample/MainWindow.xib8619172480#515"    cd /iPad/GeoHexSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/MainWindow.nib /iPad/GeoHexSample/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+r0
+
+CLd /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample normal i386
+r0
+
+CProcessInfoPlistFile /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist GeoHexSample-Info.plist
+s319322758.076897
+e319322758.114381
+r1
+xProcessInfoPlistFile
+x/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist
+xGeoHexSample-Info.plist
+lSLF07#2@31"Process GeoHexSample-Info.plist319322758#319322758#0(0"0(0#0#42"/iPad/GeoHexSample/GeoHexSample-Info.plist27303429231083620#434"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GeoHexSample-Info.plist -genpkginfo /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist0#
+
+CProcessPCH /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch.gch GeoHexSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322758.585815
+e319322759.869532
+r1
+xProcessPCH
+x/var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch.gch
+xGeoHexSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile GeoHexSample_Prefix.pch319322758#319322759#0(0"0(0#0#42"/iPad/GeoHexSample/GeoHexSample_Prefix.pch8619228992#1701"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -c /iPad/GeoHexSample/GeoHexSample_Prefix.pch -o /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch.gch0#
+
+CTouch /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app
+r0
+

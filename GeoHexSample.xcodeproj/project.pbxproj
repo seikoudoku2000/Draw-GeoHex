@@ -1,0 +1,337 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* GeoHexSampleAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* GeoHexSampleAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* GeoHexSampleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* GeoHexSampleViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* GeoHexSampleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* GeoHexSampleViewController.m */; };
+		E21F8ABF1318D10300AFC2EE /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = E21F8AB91318D10300AFC2EE /* Icon-Small-50.png */; };
+		E21F8AC01318D10300AFC2EE /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = E21F8ABA1318D10300AFC2EE /* Icon-Small.png */; };
+		E21F8AC11318D10300AFC2EE /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E21F8ABB1318D10300AFC2EE /* Icon-Small@2x.png */; };
+		E21F8AC31318D10300AFC2EE /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E21F8ABD1318D10300AFC2EE /* Icon@2x.png */; };
+		E286C197131AC5B10055CBA5 /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = E286C196131AC5B10055CBA5 /* iTunesArtwork */; };
+		E286C20A131ACFD20055CBA5 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E286C209131ACFD20055CBA5 /* Icon.png */; };
+		E289A2211364C94A0072E0BE /* 88x31.png in Resources */ = {isa = PBXBuildFile; fileRef = E289A2201364C94A0072E0BE /* 88x31.png */; };
+		E2C336641308775800B70458 /* Zone.m in Sources */ = {isa = PBXBuildFile; fileRef = E2C3365D1308775800B70458 /* Zone.m */; };
+		E2C336651308775800B70458 /* XY.m in Sources */ = {isa = PBXBuildFile; fileRef = E2C3365F1308775800B70458 /* XY.m */; };
+		E2C336661308775800B70458 /* Loc.m in Sources */ = {isa = PBXBuildFile; fileRef = E2C336611308775800B70458 /* Loc.m */; };
+		E2C336671308775800B70458 /* GeoHex.m in Sources */ = {isa = PBXBuildFile; fileRef = E2C336631308775800B70458 /* GeoHex.m */; };
+		E2C3366B1308795C00B70458 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2C3366A1308795C00B70458 /* MapKit.framework */; };
+		E2C337501308797B00B70458 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2C3374F1308797B00B70458 /* CoreLocation.framework */; };
+		E2DF58FC13118E75004136FC /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2DF58FB13118E75004136FC /* iAd.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* GeoHexSampleAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoHexSampleAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* GeoHexSampleAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeoHexSampleAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* GeoHexSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GeoHexSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* GeoHexSampleViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GeoHexSampleViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* GeoHexSampleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoHexSampleViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* GeoHexSampleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeoHexSampleViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* GeoHexSample_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoHexSample_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* GeoHexSample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GeoHexSample-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		E21F8AB91318D10300AFC2EE /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		E21F8ABA1318D10300AFC2EE /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		E21F8ABB1318D10300AFC2EE /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		E21F8ABD1318D10300AFC2EE /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		E286C196131AC5B10055CBA5 /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; path = iTunesArtwork; sourceTree = "<group>"; };
+		E286C209131ACFD20055CBA5 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		E289A2201364C94A0072E0BE /* 88x31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 88x31.png; path = ../88x31.png; sourceTree = SOURCE_ROOT; };
+		E2C3365C1308775800B70458 /* Zone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Zone.h; path = /iphone/MapPolygonSample/Classes/Zone.h; sourceTree = "<absolute>"; };
+		E2C3365D1308775800B70458 /* Zone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Zone.m; path = /iphone/MapPolygonSample/Classes/Zone.m; sourceTree = "<absolute>"; };
+		E2C3365E1308775800B70458 /* XY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XY.h; path = /iphone/MapPolygonSample/Classes/XY.h; sourceTree = "<absolute>"; };
+		E2C3365F1308775800B70458 /* XY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XY.m; path = /iphone/MapPolygonSample/Classes/XY.m; sourceTree = "<absolute>"; };
+		E2C336601308775800B70458 /* Loc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Loc.h; path = /iphone/MapPolygonSample/Classes/Loc.h; sourceTree = "<absolute>"; };
+		E2C336611308775800B70458 /* Loc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Loc.m; path = /iphone/MapPolygonSample/Classes/Loc.m; sourceTree = "<absolute>"; };
+		E2C336621308775800B70458 /* GeoHex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GeoHex.h; path = /iphone/MapPolygonSample/Classes/GeoHex.h; sourceTree = "<absolute>"; };
+		E2C336631308775800B70458 /* GeoHex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GeoHex.m; path = /iphone/MapPolygonSample/Classes/GeoHex.m; sourceTree = "<absolute>"; };
+		E2C3366A1308795C00B70458 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		E2C3374F1308797B00B70458 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		E2DF58FB13118E75004136FC /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				E2C3366B1308795C00B70458 /* MapKit.framework in Frameworks */,
+				E2C337501308797B00B70458 /* CoreLocation.framework in Frameworks */,
+				E2DF58FC13118E75004136FC /* iAd.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				E2C336531308772B00B70458 /* geohex */,
+				1D3623240D0F684500981E51 /* GeoHexSampleAppDelegate.h */,
+				1D3623250D0F684500981E51 /* GeoHexSampleAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* GeoHexSampleViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* GeoHexSampleViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* GeoHexSample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* GeoHexSample_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E289A2201364C94A0072E0BE /* 88x31.png */,
+				E286C209131ACFD20055CBA5 /* Icon.png */,
+				E286C196131AC5B10055CBA5 /* iTunesArtwork */,
+				E21F8AB91318D10300AFC2EE /* Icon-Small-50.png */,
+				E21F8ABA1318D10300AFC2EE /* Icon-Small.png */,
+				E21F8ABB1318D10300AFC2EE /* Icon-Small@2x.png */,
+				E21F8ABD1318D10300AFC2EE /* Icon@2x.png */,
+				2899E5210DE3E06400AC0155 /* GeoHexSampleViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* GeoHexSample-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+				E2C3366A1308795C00B70458 /* MapKit.framework */,
+				E2C3374F1308797B00B70458 /* CoreLocation.framework */,
+				E2DF58FB13118E75004136FC /* iAd.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E2C336531308772B00B70458 /* geohex */ = {
+			isa = PBXGroup;
+			children = (
+				E2C3365C1308775800B70458 /* Zone.h */,
+				E2C3365D1308775800B70458 /* Zone.m */,
+				E2C3365E1308775800B70458 /* XY.h */,
+				E2C3365F1308775800B70458 /* XY.m */,
+				E2C336601308775800B70458 /* Loc.h */,
+				E2C336611308775800B70458 /* Loc.m */,
+				E2C336621308775800B70458 /* GeoHex.h */,
+				E2C336631308775800B70458 /* GeoHex.m */,
+			);
+			name = geohex;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* GeoHexSample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "GeoHexSample" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GeoHexSample;
+			productName = GeoHexSample;
+			productReference = 1D6058910D05DD3D006BFB54 /* GeoHexSample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GeoHexSample" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* GeoHexSample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* GeoHexSampleViewController.xib in Resources */,
+				E21F8ABF1318D10300AFC2EE /* Icon-Small-50.png in Resources */,
+				E21F8AC01318D10300AFC2EE /* Icon-Small.png in Resources */,
+				E21F8AC11318D10300AFC2EE /* Icon-Small@2x.png in Resources */,
+				E21F8AC31318D10300AFC2EE /* Icon@2x.png in Resources */,
+				E286C197131AC5B10055CBA5 /* iTunesArtwork in Resources */,
+				E286C20A131ACFD20055CBA5 /* Icon.png in Resources */,
+				E289A2211364C94A0072E0BE /* 88x31.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* GeoHexSampleAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* GeoHexSampleViewController.m in Sources */,
+				E2C336641308775800B70458 /* Zone.m in Sources */,
+				E2C336651308775800B70458 /* XY.m in Sources */,
+				E2C336661308775800B70458 /* Loc.m in Sources */,
+				E2C336671308775800B70458 /* GeoHex.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GeoHexSample_Prefix.pch;
+				INFOPLIST_FILE = "GeoHexSample-Info.plist";
+				PRODUCT_NAME = GeoHexSample;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GeoHexSample_Prefix.pch;
+				INFOPLIST_FILE = "GeoHexSample-Info.plist";
+				PRODUCT_NAME = GeoHexSample;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "GeoHexSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GeoHexSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

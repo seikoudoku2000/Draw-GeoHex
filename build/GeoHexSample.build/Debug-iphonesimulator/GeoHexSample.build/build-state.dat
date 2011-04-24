@@ -1,0 +1,1025 @@
+TGeoHexSample
+v7
+r0
+t325372332.550428
+cCheck dependencies
+cProcessInfoPlistFile /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist GeoHexSample-Info.plist
+cCompileXIB /Users/tomitayousuke/Desktop/GeoHexSample/MainWindow.xib
+cCompileXIB /Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSampleViewController.xib
+cCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small-50.png Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small.png Icon-Small.png
+cCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small@2x.png Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon@2x.png Icon@2x.png
+cCpResource build/Debug-iphonesimulator/GeoHexSample.app/iTunesArtwork iTunesArtwork
+cCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/GeoHexSample.app/88x31.png ../88x31.png
+cProcessPCH /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch.gch GeoHexSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o /Users/tomitayousuke/Desktop/GeoHexSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o /Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o /Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o /iphone/MapPolygonSample/Classes/Zone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o /iphone/MapPolygonSample/Classes/XY.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o /iphone/MapPolygonSample/Classes/Loc.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o /iphone/MapPolygonSample/Classes/GeoHex.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample normal i386
+cGenerateDSYMFile /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+cTouch /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/iAd.framework/Headers/iAd.h
+c000000004CC657750000000000000071
+t1288066933
+s113
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004CC65780000000000002F590
+t1288066944
+s193936
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/../88x31.png
+c000000004DB4919100000000000013DB
+t1303679377
+s5083
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleAppDelegate.h
+c000000004DB48F620000000000000261
+t1303678818
+s609
+i<UIKit/UIKit.h>
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleAppDelegate.m
+c000000004DB48F660000000000000831
+t1303678822
+s2097
+i"GeoHexSampleAppDelegate.h"
+i"GeoHexSampleViewController.h"
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleViewController.h
+c000000004DB48F6A0000000000000546
+t1303678826
+s1350
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+i<iAd/iAd.h>
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleViewController.m
+c000000004DB48F6E0000000000001970
+t1303678830
+s6512
+i"GeoHexSampleViewController.h"
+i"GeoHex.h"
+i"Zone.h"
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSampleViewController.xib
+c000000004DB49226000000000000A3BD
+t1303679526
+s41917
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSample_Prefix.pch
+c000000004D583F9800000000000000C1
+t1297629080
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/Icon-Small-50.png
+c000000004D68994F00000000000011C6
+t1298700623
+s4550
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/Icon-Small.png
+c000000004D68994F0000000000000984
+t1298700623
+s2436
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/Icon-Small@2x.png
+c000000004D68994F000000000000155E
+t1298700623
+s5470
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/Icon.png
+c000000004D68994F0000000000001C57
+t1298700623
+s7255
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/Icon@2x.png
+c000000004D68994F000000000000348C
+t1298700623
+s13452
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/MainWindow.xib
+c000000004D583F980000000000004D3B
+t1297629080
+s19771
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app
+t1303679532
+s510
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM
+t1303679304
+s102
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/88x31.png
+t1303679532
+s5083
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+t1303679304
+s49960
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSampleViewController.nib
+t1303679532
+s4400
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small-50.png
+t1298700686
+s4550
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small.png
+t1298700686
+s2436
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small@2x.png
+t1298700686
+s5470
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon.png
+t1298700686
+s5352
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon@2x.png
+t1298700686
+s13452
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist
+t1303673905
+s834
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/MainWindow.nib
+t1297629958
+s1133
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/PkgInfo
+t1303673905
+s8
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/iTunesArtwork
+t1298701282
+s121504
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o
+t1303679304
+s24040
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSample.LinkFileList
+c000000004DB47C3000000000000003D9
+t1303673904
+s985
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o
+t1303679303
+s52332
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o
+t1303679303
+s73592
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o
+t1303679304
+s8364
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o
+t1303679303
+s7224
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o
+t1303679303
+s15480
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o
+t1298332178
+s6308
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/iTunesArtwork
+c000000004D689B87000000000001DAA0
+t1298701191
+s121504
+
+N/Users/tomitayousuke/Desktop/GeoHexSample/main.m
+c000000004D583F98000000000000016D
+t1297629080
+s365
+i<UIKit/UIKit.h>
+
+N/Users/tomitayousuke/Desktop/icon.png
+c000000004D68970E00000000000035F5
+t1298700046
+s13813
+
+N/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.h
+c000000004D583F9800000000000001FC
+t1297629080
+s508
+i<UIKit/UIKit.h>
+
+N/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m
+c000000004D583F9800000000000007CC
+t1297629080
+s1996
+i"GeoHexSampleAppDelegate.h"
+i"GeoHexSampleViewController.h"
+
+N/iPad/GeoHexSample/Classes/GeoHexSampleViewController.h
+c000000004D6A7CE700000000000004E1
+t1298824423
+s1249
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+i<iAd/iAd.h>
+
+N/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m
+c000000004D6A7C7C0000000000001905
+t1298824316
+s6405
+i"GeoHexSampleViewController.h"
+i"GeoHex.h"
+i"Zone.h"
+
+N/iPad/GeoHexSample/GeoHexSampleViewController.xib
+c000000004D6A7E2600000000000097F6
+t1298824742
+s38902
+
+N/iPad/GeoHexSample/GeoHexSample_Prefix.pch
+c000000004D583F9800000000000000C1
+t1297629080
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPad/GeoHexSample/Icon-72.png
+c000000004D68994F0000000000001C57
+t1298700623
+s7255
+
+N/iPad/GeoHexSample/Icon-Small-50.png
+c000000004D68994F00000000000011C6
+t1298700623
+s4550
+
+N/iPad/GeoHexSample/Icon-Small.png
+c000000004D68994F0000000000000984
+t1298700623
+s2436
+
+N/iPad/GeoHexSample/Icon-Small@2x.png
+c000000004D68994F000000000000155E
+t1298700623
+s5470
+
+N/iPad/GeoHexSample/Icon.png
+c000000004D68994F00000000000014E8
+t1298700623
+s5352
+
+N/iPad/GeoHexSample/Icon@2x.png
+c000000004D68994F000000000000348C
+t1298700623
+s13452
+
+N/iPad/GeoHexSample/MainWindow.xib
+c000000004D583F980000000000004D3B
+t1297629080
+s19771
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app
+t1298825644
+s476
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM
+t1298825644
+s102
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+t1298825644
+s49756
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSampleViewController.nib
+t1298825641
+s3993
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon-72.png
+t1298700686
+s7255
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small-50.png
+t1298700686
+s4550
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small.png
+t1298700686
+s2436
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small@2x.png
+t1298700686
+s5470
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon.png
+t1298700686
+s5352
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Icon@2x.png
+t1298700686
+s13452
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist
+t1298825640
+s845
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/MainWindow.nib
+t1297629958
+s1133
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/PkgInfo
+t1298825640
+s8
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/iTunesArtwork
+t1298701282
+s121504
+
+N/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/icon.png
+t1298700156
+s13813
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o
+t1298332178
+s24040
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSample.LinkFileList
+c000000004D62FA590000000000000338
+t1298332249
+s824
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o
+t1298825642
+s52284
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o
+t1298825642
+s73544
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexTest.o
+t2
+s0
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o
+t1298332178
+s8364
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o
+t1298332178
+s7224
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o
+t1298332178
+s15480
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o
+t1298332178
+s6308
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/GeoHex.plist
+t1297630871
+s276
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/GeoHexSampleAppDelegate.plist
+t1297630870
+s276
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/GeoHexSampleViewController.plist
+t1297630870
+s276
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/GeoHexTest.plist
+t2
+s0
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/Loc.plist
+t1297630870
+s276
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/XY.plist
+t1297630870
+s276
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/Zone.plist
+t1297630870
+s276
+
+N/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/main.plist
+t1297630870
+s276
+
+N/iPad/GeoHexSample/iTunesArtwork
+c000000004D689B87000000000001DAA0
+t1298701191
+s121504
+
+N/iPad/GeoHexSample/icon.png
+c000000004C2977100000000000002EBD
+t1277785872
+s11965
+
+N/iPad/GeoHexSample/main.m
+c000000004D583F98000000000000016D
+t1297629080
+s365
+i<UIKit/UIKit.h>
+
+N/iphone/MapPolygonSample/Classes/GeoHex.h
+c000000004DB48F5A00000000000002FE
+t1303678810
+s766
+i<Foundation/Foundation.h>
+i"Loc.h"
+i"XY.h"
+i"Zone.h"
+
+N/iphone/MapPolygonSample/Classes/GeoHex.m
+c000000004DB48F5E000000000000168A
+t1303678814
+s5770
+i"GeoHex.h"
+
+N/iphone/MapPolygonSample/Classes/Loc.h
+c000000004DB48F530000000000000194
+t1303678803
+s404
+i<Foundation/Foundation.h>
+
+N/iphone/MapPolygonSample/Classes/Loc.m
+c000000004DB48F5600000000000001B9
+t1303678806
+s441
+i"Loc.h"
+
+N/iphone/MapPolygonSample/Classes/XY.h
+c000000004DB48F490000000000000164
+t1303678793
+s356
+i<Foundation/Foundation.h>
+
+N/iphone/MapPolygonSample/Classes/XY.m
+c000000004DB48F4E000000000000012A
+t1303678798
+s298
+i"XY.h"
+
+N/iphone/MapPolygonSample/Classes/Zone.h
+c000000004DB48F34000000000000020D
+t1303678772
+s525
+i<Foundation/Foundation.h>
+
+N/iphone/MapPolygonSample/Classes/Zone.m
+c000000004DB48F390000000000000504
+t1303678777
+s1284
+i"Zone.h"
+i"GeoHex.h"
+i"XY.h"
+
+N/iphone/MapPolygonSample/TestClasses/GeoHexTest.h
+c000000004D4D013900000000000002E0
+t1296892217
+s736
+i<SenTestingKit/SenTestingKit.h>
+
+N/iphone/MapPolygonSample/TestClasses/GeoHexTest.m
+c000000004D5162160000000000000501
+t1297179158
+s1281
+i"GeoHexTest.h"
+i"GeoHex.h"
+i"Zone.h"
+
+N/var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch.gch
+t1297629959
+s15453392
+
+N/var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch.pth
+t1297630870
+s2783948
+
+N/var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch.gch
+t1298332178
+s15453392
+
+NGeoHexSample-Info.plist
+c000000004D6A96E400000000000004AE
+t1298831076
+s1198
+
+CAnalyze /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m
+s319323670.193065
+e319323670.319499
+r1
+xAnalyze
+x/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m
+lSLF07#2@60"Analyze /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m319323670#319323670#0(0"0(0#0#52"/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m8618792640#1849"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch --analyze /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/GeoHexSampleAppDelegate.plist0#
+
+CAnalyze /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m
+s319323670.226573
+e319323670.299551
+r1
+xAnalyze
+x/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m
+lSLF07#2@63"Analyze /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m319323670#319323670#0(0"0(0#0#55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m8618452352#1855"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch --analyze /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/GeoHexSampleViewController.plist0#
+
+CAnalyze /iPad/GeoHexSample/main.m
+s319323670.118989
+e319323670.226480
+r1
+xAnalyze
+x/iPad/GeoHexSample/main.m
+lSLF07#2@33"Analyze /iPad/GeoHexSample/main.m319323670#319323670#0(0"0(0#0#25"/iPad/GeoHexSample/main.m8619234048#1803"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch --analyze /iPad/GeoHexSample/main.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CAnalyze /iphone/MapPolygonSample/Classes/GeoHex.m
+s319323670.364181
+e319323671.156399
+r1
+xAnalyze
+x/iphone/MapPolygonSample/Classes/GeoHex.m
+lSLF07#2@49"Analyze /iphone/MapPolygonSample/Classes/GeoHex.m319323670#319323671#0(0"0(0#0#41"/iphone/MapPolygonSample/Classes/GeoHex.m8620007008#1821"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch --analyze /iphone/MapPolygonSample/Classes/GeoHex.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/GeoHex.plist0#
+
+CAnalyze /iphone/MapPolygonSample/Classes/Loc.m
+s319323670.359700
+e319323670.412738
+r1
+xAnalyze
+x/iphone/MapPolygonSample/Classes/Loc.m
+lSLF07#2@46"Analyze /iphone/MapPolygonSample/Classes/Loc.m319323670#319323670#0(0"0(0#0#38"/iphone/MapPolygonSample/Classes/Loc.m8620169408#1815"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch --analyze /iphone/MapPolygonSample/Classes/Loc.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/Loc.plist0#
+
+CAnalyze /iphone/MapPolygonSample/Classes/XY.m
+s319323670.319601
+e319323670.364089
+r1
+xAnalyze
+x/iphone/MapPolygonSample/Classes/XY.m
+lSLF07#2@45"Analyze /iphone/MapPolygonSample/Classes/XY.m319323670#319323670#0(0"0(0#0#37"/iphone/MapPolygonSample/Classes/XY.m8610185312#1813"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch --analyze /iphone/MapPolygonSample/Classes/XY.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/XY.plist0#
+
+CAnalyze /iphone/MapPolygonSample/Classes/Zone.m
+s319323670.299662
+e319323670.359603
+r1
+xAnalyze
+x/iphone/MapPolygonSample/Classes/Zone.m
+lSLF07#2@47"Analyze /iphone/MapPolygonSample/Classes/Zone.m319323670#319323670#0(0"0(0#0#39"/iphone/MapPolygonSample/Classes/Zone.m8610462976#1817"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch --analyze /iphone/MapPolygonSample/Classes/Zone.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/Zone.plist0#
+
+CAnalyze /iphone/MapPolygonSample/TestClasses/GeoHexTest.m
+s319323670.412826
+e319323670.476238
+r1
+xAnalyze
+x/iphone/MapPolygonSample/TestClasses/GeoHexTest.m
+oIn file included from /iphone/MapPolygonSample/TestClasses/GeoHexTest.m:9:
+o/iphone/MapPolygonSample/TestClasses/GeoHexTest.h:15:9: fatal error: 'SenTestingKit/SenTestingKit.h' file not found
+o #import <SenTestingKit/SenTestingKit.h>
+o         ^
+o1 error generated.
+lSLF07#2@57"Analyze /iphone/MapPolygonSample/TestClasses/GeoHexTest.m319323670#319323670#0(262"In file included from /iphone/MapPolygonSample/TestClasses/GeoHexTest.m:9:/iphone/MapPolygonSample/TestClasses/GeoHexTest.h:15:9: fatal error: 'SenTestingKit/SenTestingKit.h' file not found #import <SenTestingKit/SenTestingKit.h>         ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors319323670#18446744073709551615#0#1(25@46"'SenTestingKit/SenTestingKit.h' file not found319323670#18446744073709551615#0#0(6@49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.h318585017#15#0#15#0#0"0(6@49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.h318585017#0#0#0#0#0"0(0#0#49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.m8619661664#1833"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch --analyze /iphone/MapPolygonSample/TestClasses/GeoHexTest.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/StaticAnalyzer/normal/i386/GeoHexTest.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325372332#325372332#0(0"0(0#1#0"33777431001694320#0"0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o /iphone/MapPolygonSample/Classes/GeoHex.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325372104.012727
+e325372104.221776
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o
+x/iphone/MapPolygonSample/Classes/GeoHex.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /iphone/MapPolygonSample/Classes/GeoHex.m325372104#325372104#0(0"0(0#0#41"/iphone/MapPolygonSample/Classes/GeoHex.m8603295776#2042"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -I/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/include -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch -c /iphone/MapPolygonSample/Classes/GeoHex.m -o /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHex.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o /Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325372103.625966
+e325372103.749683
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o
+x/Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleAppDelegate.m325372103#325372103#0(0"0(0#0#75"/Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleAppDelegate.m8612518016#2093"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -I/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/include -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch -c /Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleAppDelegate.m -o /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320518441.524874
+e320518442.743649
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o
+x/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m320518441#320518442#0(0"0(0#0#52"/iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m8620439712#1840"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iPad/GeoHexSample/Classes/GeoHexSampleAppDelegate.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleAppDelegate.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o /Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325372103.626935
+e325372103.922739
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o
+x/Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleViewController.m325372103#325372103#0(0"0(0#0#78"/Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleViewController.m8612028832#2099"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -I/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/include -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch -c /Users/tomitayousuke/Desktop/GeoHexSample/Classes/GeoHexSampleViewController.m -o /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320518441.526020
+e320518442.744792
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o
+x/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m320518441#320518442#0(0"0(0#0#55"/iPad/GeoHexSample/Classes/GeoHexSampleViewController.m8620163872#1846"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iPad/GeoHexSample/Classes/GeoHexSampleViewController.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSampleViewController.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexTest.o /iphone/MapPolygonSample/TestClasses/GeoHexTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319323670.117424
+e319323670.192970
+r0
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexTest.o
+x/iphone/MapPolygonSample/TestClasses/GeoHexTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /iphone/MapPolygonSample/TestClasses/GeoHexTest.m:9:
+o/iphone/MapPolygonSample/TestClasses/GeoHexTest.h:15:40: error: SenTestingKit/SenTestingKit.h: No such file or directory
+oIn file included from /iphone/MapPolygonSample/TestClasses/GeoHexTest.m:9:
+o/iphone/MapPolygonSample/TestClasses/GeoHexTest.h:18: error: cannot find interface declaration for 'SenTestCase', superclass of 'GeoHexTest'
+o/iphone/MapPolygonSample/TestClasses/GeoHexTest.m: In function '-[GeoHexTest testMath]':
+o/iphone/MapPolygonSample/TestClasses/GeoHexTest.m:19: warning: implicit declaration of function 'STAssertTrue'
+lSLF07#2@57"Compile /iphone/MapPolygonSample/TestClasses/GeoHexTest.m319323670#319323670#0(612"In file included from /iphone/MapPolygonSample/TestClasses/GeoHexTest.m:9:/iphone/MapPolygonSample/TestClasses/GeoHexTest.h:15:40: error: SenTestingKit/SenTestingKit.h: No such file or directoryIn file included from /iphone/MapPolygonSample/TestClasses/GeoHexTest.m:9:/iphone/MapPolygonSample/TestClasses/GeoHexTest.h:18: error: cannot find interface declaration for 'SenTestCase', superclass of 'GeoHexTest'/iphone/MapPolygonSample/TestClasses/GeoHexTest.m: In function '-[GeoHexTest testMath]':/iphone/MapPolygonSample/TestClasses/GeoHexTest.m:19: warning: implicit declaration of function 'STAssertTrue'3(4@56"SenTestingKit/SenTestingKit.h: No such file or directory319323670#75#121#2(7@71"In file included from /iphone/MapPolygonSample/TestClasses/GeoHexTest.m319323670#18446744073709551615#0#0(6@49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.m318871958#9#0#9#0#0"0(13@109"SenTestingKit/SenTestingKit.h: No such file or directory in /iphone/MapPolygonSample/TestClasses/GeoHexTest.h319323670#18446744073709551615#0#0(6@49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.h318585017#15#0#15#0#0"0(6@49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.h318585017#15#0#15#0#28"*: No such file or directory0(4@79"Cannot find interface declaration for 'SenTestCase', superclass of 'GeoHexTest'319323670#271#141#2(7@71"In file included from /iphone/MapPolygonSample/TestClasses/GeoHexTest.m319323670#18446744073709551615#0#0(6@49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.m318871958#9#0#9#0#0"0(13@132"Cannot find interface declaration for 'SenTestCase', superclass of 'GeoHexTest' in /iphone/MapPolygonSample/TestClasses/GeoHexTest.h319323670#18446744073709551615#0#0(6@49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.h318585017#18#0#18#0#0"0(6@49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.h318585017#18#0#18#0#60"cannot find interface declaration for '*', superclass of '*'0(22@47"Implicit declaration of function 'STAssertTrue'319323670#501#111#0(6@49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.m318871958#19#0#19#0#36"implicit declaration of function '*'0(0#0#49"/iphone/MapPolygonSample/TestClasses/GeoHexTest.m8619373792#1824"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iphone/MapPolygonSample/TestClasses/GeoHexTest.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexTest.o1#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o /iphone/MapPolygonSample/Classes/Loc.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325372103.922832
+e325372104.126240
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o
+x/iphone/MapPolygonSample/Classes/Loc.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /iphone/MapPolygonSample/Classes/Loc.m325372103#325372104#0(0"0(0#0#38"/iphone/MapPolygonSample/Classes/Loc.m8604585504#2036"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -I/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/include -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch -c /iphone/MapPolygonSample/Classes/Loc.m -o /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Loc.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o /iphone/MapPolygonSample/Classes/XY.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325372103.835088
+e325372104.012572
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o
+x/iphone/MapPolygonSample/Classes/XY.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /iphone/MapPolygonSample/Classes/XY.m325372103#325372104#0(0"0(0#0#37"/iphone/MapPolygonSample/Classes/XY.m8612237952#2034"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -I/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/include -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch -c /iphone/MapPolygonSample/Classes/XY.m -o /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/XY.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o /iphone/MapPolygonSample/Classes/Zone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325372103.749790
+e325372103.834986
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o
+x/iphone/MapPolygonSample/Classes/Zone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /iphone/MapPolygonSample/Classes/Zone.m325372103#325372103#0(0"0(0#0#39"/iphone/MapPolygonSample/Classes/Zone.m8611223328#2038"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -I/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/include -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch -c /iphone/MapPolygonSample/Classes/Zone.m -o /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/Zone.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o /Users/tomitayousuke/Desktop/GeoHexSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320024978.289627
+e320024978.367143
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o
+x/Users/tomitayousuke/Desktop/GeoHexSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/tomitayousuke/Desktop/GeoHexSample/main.m320024978#320024978#0(0"0(0#0#48"/Users/tomitayousuke/Desktop/GeoHexSample/main.m8611233792#2047"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -I/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/include -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch -c /Users/tomitayousuke/Desktop/GeoHexSample/main.m -o /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o /iPad/GeoHexSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322759.869916
+e319322760.099432
+r1
+xCompileC
+xbuild/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o
+x/iPad/GeoHexSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Compile /iPad/GeoHexSample/main.m319322759#319322760#0(0"0(0#0#25"/iPad/GeoHexSample/main.m8619222624#1794"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -include /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch -c /iPad/GeoHexSample/main.m -o /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSampleViewController.xib
+s325372332.004903
+e325372332.546351
+r1
+xCompileXIB
+x/Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSampleViewController.xib
+lSLF07#2@41"CompileXIB GeoHexSampleViewController.xib325372332#325372332#0(0"0(0#0#72"/Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSampleViewController.xib28429432216944756#616"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSampleViewController.nib /Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSampleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tomitayousuke/Desktop/GeoHexSample/MainWindow.xib
+r0
+
+CCompileXIB /iPad/GeoHexSample/GeoHexSampleViewController.xib
+s320518441.000617
+e320518441.524563
+r1
+xCompileXIB
+x/iPad/GeoHexSample/GeoHexSampleViewController.xib
+lSLF07#2@41"CompileXIB GeoHexSampleViewController.xib320518441#320518441#0(0"0(0#0#49"/iPad/GeoHexSample/GeoHexSampleViewController.xib8622558656#547"    cd /iPad/GeoHexSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSampleViewController.nib /iPad/GeoHexSample/GeoHexSampleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /iPad/GeoHexSample/MainWindow.xib
+s319322758.114471
+e319322758.571982
+r1
+xCompileXIB
+x/iPad/GeoHexSample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319322758#319322758#0(0"0(0#0#33"/iPad/GeoHexSample/MainWindow.xib8619172480#515"    cd /iPad/GeoHexSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/MainWindow.nib /iPad/GeoHexSample/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/88x31.png ../88x31.png
+s325372332.006192
+e325372332.083711
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/88x31.png
+x../88x31.png
+lSLF07#2@17"Copy ../88x31.png325372332#325372332#0(0"0(0#0#54"/Users/tomitayousuke/Desktop/GeoHexSample/../88x31.png8604402528#484"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tomitayousuke/Desktop/GeoHexSample/../88x31.png /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon-72.png Icon-72.png
+s320393486.608245
+e320393486.627941
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/Icon-72.png
+xIcon-72.png
+lSLF07#2@16"Copy Icon-72.png320393486#320393486#0(0"0(0#0#30"/iPad/GeoHexSample/Icon-72.png8603958624#414"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPad/GeoHexSample/Icon-72.png /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small-50.png Icon-Small-50.png
+s320393486.609044
+e320393486.623209
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/Icon-Small-50.png
+xIcon-Small-50.png
+lSLF07#2@22"Copy Icon-Small-50.png320393486#320393486#0(0"0(0#0#36"/iPad/GeoHexSample/Icon-Small-50.png8603328672#420"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPad/GeoHexSample/Icon-Small-50.png /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small.png Icon-Small.png
+s320393486.609765
+e320393486.626954
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/Icon-Small.png
+xIcon-Small.png
+lSLF07#2@19"Copy Icon-Small.png320393486#320393486#0(0"0(0#0#33"/iPad/GeoHexSample/Icon-Small.png8602826816#417"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPad/GeoHexSample/Icon-Small.png /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon-Small@2x.png Icon-Small@2x.png
+s320393486.611791
+e320393486.621784
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/Icon-Small@2x.png
+xIcon-Small@2x.png
+lSLF07#2@22"Copy Icon-Small@2x.png320393486#320393486#0(0"0(0#0#36"/iPad/GeoHexSample/Icon-Small@2x.png8600403104#420"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPad/GeoHexSample/Icon-Small@2x.png /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon.png Icon.png
+s320393486.613668
+e320393486.624590
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png320393486#320393486#0(0"0(0#0#27"/iPad/GeoHexSample/Icon.png8609166816#411"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPad/GeoHexSample/Icon.png /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/Icon@2x.png Icon@2x.png
+s320393486.615404
+e320393486.631733
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@16"Copy Icon@2x.png320393486#320393486#0(0"0(0#0#30"/iPad/GeoHexSample/Icon@2x.png8608800896#414"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPad/GeoHexSample/Icon@2x.png /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/iTunesArtwork iTunesArtwork
+s320394082.478874
+e320394082.484389
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/iTunesArtwork
+xiTunesArtwork
+lSLF07#2@18"Copy iTunesArtwork320394082#320394082#0(0"0(0#0#32"/iPad/GeoHexSample/iTunesArtwork8603802816#416"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPad/GeoHexSample/iTunesArtwork /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/icon.png /Users/tomitayousuke/Desktop/icon.png
+s320392956.113197
+e320392956.175334
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/icon.png
+x/Users/tomitayousuke/Desktop/icon.png
+lSLF07#2@42"Copy /Users/tomitayousuke/Desktop/icon.png320392956#320392956#0(0"0(0#0#37"/Users/tomitayousuke/Desktop/icon.png31525614006435940#421"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tomitayousuke/Desktop/icon.png /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoHexSample.app/icon.png icon.png
+s320025185.481174
+e320025185.521221
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoHexSample.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png320025185#320025185#0(0"0(0#0#27"/iPad/GeoHexSample/icon.png31525614006435940#411"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPad/GeoHexSample/icon.png /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CGenerateDSYMFile /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+s325372104.613533
+e325372104.715545
+r1
+xGenerateDSYMFile
+x/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM
+x/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/GeoHexSample.app.dSYM build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample325372104#325372104#0(0"0(0#0#99"/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample8611481696#407"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample -o /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM0#
+
+CGenerateDSYMFile /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+s320518444.319823
+e320518444.341663
+r1
+xGenerateDSYMFile
+x/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM
+x/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/GeoHexSample.app.dSYM build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample320518444#320518444#0(0"0(0#0#76"/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample8622743584#338"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample -o /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app.dSYM0#
+
+CLd /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample normal i386
+s325372104.221969
+e325372104.613429
+r1
+xLd
+x/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+xnormal
+xi386
+lSLF07#2@104"Link /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample325372104#325372104#0(0"0(0#0#0"8606220960#997"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -F/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -filelist /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework iAd -o /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample0#
+
+CLd /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample normal i386
+s320518442.744869
+e320518444.319607
+r1
+xLd
+x/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample
+xnormal
+xi386
+lSLF07#2@81"Link /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample320518442#320518444#0(0"0(0#0#0"8621095072#882"    cd /iPad/GeoHexSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/iPad/GeoHexSample/build/Debug-iphonesimulator -F/iPad/GeoHexSample/build/Debug-iphonesimulator -filelist /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/Objects-normal/i386/GeoHexSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework iAd -o /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/GeoHexSample0#
+
+CProcessInfoPlistFile /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist GeoHexSample-Info.plist
+s325366705.011519
+e325366705.014762
+r1
+xProcessInfoPlistFile
+x/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist
+xGeoHexSample-Info.plist
+lSLF07#2@31"Process GeoHexSample-Info.plist325366705#325366705#0(0"0(0#0#65"/Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSample-Info.plist8608454336#503"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GeoHexSample-Info.plist -genpkginfo /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist0#
+
+CProcessInfoPlistFile /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist GeoHexSample-Info.plist
+s320518440.941308
+e320518441.000454
+r1
+xProcessInfoPlistFile
+x/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist
+xGeoHexSample-Info.plist
+lSLF07#2@31"Process GeoHexSample-Info.plist320518440#320518441#0(0"0(0#0#42"/iPad/GeoHexSample/GeoHexSample-Info.plist8622931104#434"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GeoHexSample-Info.plist -genpkginfo /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app/Info.plist0#
+
+CProcessPCH /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch.gch GeoHexSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319322758.585815
+e319322759.869532
+r1
+xProcessPCH
+x/var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch.gch
+xGeoHexSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile GeoHexSample_Prefix.pch319322758#319322759#0(0"0(0#0#42"/iPad/GeoHexSample/GeoHexSample_Prefix.pch8619228992#1701"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -c /iPad/GeoHexSample/GeoHexSample_Prefix.pch -o /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-bpcfuzvnqrznxhhivlbsqksiuvpq/GeoHexSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch.pth GeoHexSample_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s319323669.674303
+e319323670.115966
+r1
+xProcessPCH
+x/var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch.pth
+xGeoHexSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@34"Precompile GeoHexSample_Prefix.pch319323669#319323670#0(0"0(0#0#42"/iPad/GeoHexSample/GeoHexSample_Prefix.pch8618464128#1692"    cd /iPad/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/iPad/GeoHexSample/build/Debug-iphonesimulator -I/iPad/GeoHexSample/build/Debug-iphonesimulator/include -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/iPad/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -c /iPad/GeoHexSample/GeoHexSample_Prefix.pch -o /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fkbltroeglkrwffnmbsxkzoqmgon/GeoHexSample_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch.gch GeoHexSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320024977.130689
+e320024978.289361
+r1
+xProcessPCH
+x/var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch.gch
+xGeoHexSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile GeoHexSample_Prefix.pch320024977#320024978#0(0"0(0#0#65"/Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSample_Prefix.pch8101238315839473664#1931"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-generated-files.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-own-target-headers.hmap -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-all-target-headers.hmap -iquote /Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/GeoHexSample-project-headers.hmap -F/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator -I/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/include -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources/i386 -I/Users/tomitayousuke/Desktop/GeoHexSample/build/GeoHexSample.build/Debug-iphonesimulator/GeoHexSample.build/DerivedSources -c /Users/tomitayousuke/Desktop/GeoHexSample/GeoHexSample_Prefix.pch -o /var/folders/5L/5LXZ2Sd+ESK-PZpe3VbXPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoHexSample_Prefix-fmfwoxpphdpxhfdcuipupdrxwdsk/GeoHexSample_Prefix.pch.gch0#
+
+CTouch /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app
+s325372332.547296
+e325372332.550379
+r1
+xTouch
+x/Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app
+lSLF07#2@92"Touch /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app325372332#325372332#0(0"0(0#0#0"8604517568#289"    cd /Users/tomitayousuke/Desktop/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tomitayousuke/Desktop/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
+CTouch /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app
+s320518444.341755
+e320518444.344933
+r1
+xTouch
+x/iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app
+lSLF07#2@69"Touch /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app320518444#320518444#0(0"0(0#0#0"8622592512#243"    cd /iPad/GeoHexSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /iPad/GeoHexSample/build/Debug-iphonesimulator/GeoHexSample.app0#
+
