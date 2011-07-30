@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-
+ 
 @interface Zone : NSObject {
 	double lat;
 	double lon;

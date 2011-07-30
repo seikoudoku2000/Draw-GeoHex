@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-
+ 
 @interface XY : NSObject {
 	double x;
 	double y;

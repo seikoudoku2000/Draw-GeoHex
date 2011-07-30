@@ -86,6 +86,8 @@ NSMutableArray *polyArray;
 
 -(void) drawHex:(double)lat lon:(double)lon level:(int)level {
 	Zone *zone = [GeoHex getZoneByLocation:lat longitude:lon level:level];
+	NSLog(@"tap: x:%f, y:%f", zone.lat, zone.lon);
+
 	if([hexCodeSet containsObject: zone.code] == FALSE) {
 		NSArray *locArray = [zone getHexCoords];
 		CLLocationCoordinate2D coors[6];

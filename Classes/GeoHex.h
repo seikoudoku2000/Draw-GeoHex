@@ -12,7 +12,7 @@
 #import "Zone.h"
 
 @interface GeoHex : NSObject {
-
+ 
 }
 
 +(NSString*) encode:(double)lat longitude:(double)lon level:(int)level;
