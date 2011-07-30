@@ -8,7 +8,7 @@
 
 #import "Loc.h"
 
- 
+
 @implementation Loc
 @synthesize lat,lon;
 

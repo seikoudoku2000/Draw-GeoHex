@@ -9,7 +9,7 @@
 #import "Zone.h"
 #import "GeoHex.h"
 #import "XY.h"
- 
+
 @implementation Zone
 
 @synthesize lon,lat,x,y,code,level;

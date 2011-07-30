@@ -17,7 +17,7 @@
 
 +(double) calcHexSize:(int)level {
 	return H_BASE/pow(3.0, (double)level +1);
-} 
+}
 
 +(XY*) loc2xy:(double)lat longitude:(double)lon {
 	double x = lon * H_BASE / 180.0;

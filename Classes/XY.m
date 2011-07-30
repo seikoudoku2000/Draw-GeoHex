@@ -7,7 +7,7 @@
 //  GeoHex by @sa2da (http://geogames.net) is licensed under Creative Commons BY-SA 2.1 Japan License. 
 
 #import "XY.h"
- 
+
 
 @implementation XY
 @synthesize x,y;
