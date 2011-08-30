@@ -157,7 +157,8 @@
 			[code3_y addObject:[NSNumber numberWithInt:1]];
 		}
 	}
-
+    [code3_x release];
+    [code3_y release];
 	 
 	for (int i=0; i < [code3_x count]; i++) {
 		NSString *s1 = [NSString stringWithFormat : @"%d",[[code3_x objectAtIndex:i] intValue]];
